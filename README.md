@@ -1,2 +1,4 @@
 # xrandr-brightness
-Script for brightness control with xrandr
+
+Данный скрипт предназначен для регулировки яркости на ПК, где яркость регулировать по каким-то причинам нельзя.
+Должен подходить под любой дистрибутив (проверено на Archlinux, Ubuntu, Debian).
